@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+env/
+moodify_env_*/
+moodify_bot_env/
+tele_bot/
+
+# ChromaDB database (large, can be regenerated)
+chroma_db/
+
+# Environment variables (contains secrets)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE folders
+.vscode/
+.idea/
+
+# Logs
+*.log
