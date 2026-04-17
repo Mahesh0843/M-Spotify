@@ -3,3 +3,4 @@ chromadb
 python-dotenv==1.2.2
 pandas==2.0.0
 requests
+flask
